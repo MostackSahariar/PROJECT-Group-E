@@ -1,0 +1,255 @@
+Current Date: Jan 9, 2021
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: A B
+Age: 50
+Location: k
+Contact: 01
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: a b
+Age: 50
+Location: a
+Contact: 01
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: a m
+Age: 50
+Location: hj
+Contact: 0
+Car: Hiace-2012
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: a k
+Age: 50
+Location: Type Complete Address Hereyghyj
+Contact: Type Contact Number Here012
+Car: Hiace-2012
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Name Herec vc Type Last Name Hvsdfvere
+Age: 50
+Location: Type Complete jp[] Here
+Contact: []jk-0114Type Contact Number Here
+Car: Hiace-2012
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Name Heredfh fherType Last Name Here
+Age: 50
+Location: Type Comfghplete Address Here
+Contact: Type Contact 014Number Here
+Car: Ambulance-2010
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Name Hereghjsrt jddyjdType Last Name Here
+Age: 50
+Location: Type Complete Address Herejklgi
+Contact: Type Contact Number Here01245
+Car: Ambulance-2010
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: First Name ghf  Last Name fgdaeg
+Age: 50
+Location:  Address uyjdty
+Contact:  Contact Number114
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Name Herej Type Last Name Hered
+Age: 50
+Location: Type Complete Address Hered
+Contact: Type Contact Number Hered
+Car: Totyota Corolla-2009
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Name Heredfvads Type Last Name Heredfga
+Age: 50
+Location: Type Completui Address Here
+Contact: Type Contact Nu104mber Here
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Namefbgadf Here fagType Last Name Here
+Age: 23
+Location: Type Complejkhugte Address Here
+Contact: Type Contact N014umber Here
+Car: Ambulance-2010
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type First Name Heregjh Type Last Name Herejhdj
+Age: 50
+Location: Type Cfghjomplete Address Here
+Contact: Type Contac0411278t Number Here
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2021 = Days: 720
+Full Name: Type First Name fbvfdHere Type Last Name Heredsvadsf
+Age: 50
+Location: Type Complete Address Hereghjngy
+Contact: 010re
+Car: Toyota Allion-2018
+Total Rent Price: 2880000.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2022 = Days: 1080
+Full Name: Type First Name Heredfgv Type Last Name Heredfsgr
+Age: 50
+Location: Type Complete Address Herefth
+Contact: Type Contact Number Herfthye
+Car: Toyota Allion-2018
+Total Rent Price: 4320000.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name: Type Finghjnrst Name Here Type Last Name Hereghg
+Age: 50
+Location: Typejkfhj Complete Address Here
+Contact: fuhkf Type Contact Number Here
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name:  First Name fgf  Last Namefdg 
+Age: 50
+Location: kf Address 
+Contact:  Contact Number 012
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2019
+Return Date: Jan 1, 2019 = Days: 0
+Full Name:  First Name fzgf cgz Last Name 
+Age: 50
+Location: dfzghdf Address 
+Contact:  Contact n,Number 
+Car: Toyota Allion-2018
+Total Rent Price: 0.00
+--------------------------------------------------
+
+
+
+
